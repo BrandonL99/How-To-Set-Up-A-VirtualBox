@@ -11,6 +11,8 @@ The project consists of a step-by-step guide to setting up a VirtualBox for Wind
 - <b>Active Directory</b> 
 - <b>Oracle VM VirtualBox</b>
 - <b>Windows 10</b> (Enterprise Edition)
+- <b>Server 2022</b>
+
 
 <h2>Project walk-through:</h2>
 
