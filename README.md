@@ -1,4 +1,4 @@
-# HowToSetUpAVirtualBox
+# How-To-Set-Up-A-VirtualBox
 
 
 <h2>Description</h2>
