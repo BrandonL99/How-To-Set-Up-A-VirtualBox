@@ -19,8 +19,6 @@ The project consists of a step-by-step guide to setting up a VirtualBox for Wind
 <p align="center">
 To start with installing Virtualbox, first, go to the link provided.
 (https://www.virtualbox.org/wiki/Downloads) and click on Windows hosts to install the VirtualBox and All supported platforms with the title (VirtualBox 7.0.8 Oracle VM VirtualBox Extension Pack). <br/>
-<img src="https://i.imgur.com/3SysK86.png" height="80%" width="80%" alt="VirtualBox Steps"/>
-<br />
 <br />
 Next would be to go to the link (https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise) to download Windows 10. Click Download the ISO - Enterprise.
 Register with your information and click Download now. Now go to your Language and click the 64-bit edition ISO - Enterprise downloads.
