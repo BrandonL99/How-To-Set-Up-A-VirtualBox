@@ -25,14 +25,12 @@ To start with installing Virtualbox, first, go to the link provided.
 Next would be to go to the link (https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise) to download Windows 10. Click Download the ISO - Enterprise.
 Register with your information and click Download now. Now go to your Language and click the 64-bit edition ISO - Enterprise downloads.
  <br />
-<img src="https://i.imgur.com/nOjyi3s.png" height="80%" width="80%" alt="VirtualBox Steps"/>
 <br />
 Now we will be downloading Server 2022 ISO. 
 Go to the website link https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022. 
 Now you will scroll down to the section titled Get Started For Free. Click Download the ISO, and under the section Register for your free trial today fill out the blank information such as your name and email, etc., then click on Download now. Here you will download your language ISO 64-bit edition.
 
   <br/>
-<img src="https://i.imgur.com/zfwOnpU.png" height="80%" width="80%" alt="VirtualBox Steps"/>
 <br />
 <br />
 
@@ -40,7 +38,6 @@ We are going to open up Virtualbox, Just click on the setup and hit Next, and in
 <br />
 <br />
 
-<img src="https://i.imgur.com/U6waAS1.png" height="80%" width="80%" alt="VirtualBox Steps"/>
 <br />
 <br />
 
